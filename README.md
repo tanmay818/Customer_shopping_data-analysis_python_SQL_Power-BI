@@ -6,17 +6,13 @@ This project analyzes customer behavior data to understand purchasing patterns, 
 
 Tools Used
 
-Python
+- Python
+- MySQL
+- Microsoft Excel
+- Power BI
+- Visual Studio Code
 
-MySQL
-
-Microsoft Excel
-
-Power BI
-
-Visual Studio Code
-
-Project Steps
+#  Project Steps
 
 Data cleaning and preprocessing using Python
 
@@ -28,10 +24,10 @@ Creating interactive dashboards in Power BI
 
 Outcome
 
-The project helps identify:
+- The project helps identify:
 
-Customer purchasing patterns
+- Customer purchasing patterns
 
-Top-selling products
+- Top-selling products
 
-Sales trends and business insights
+- Sales trends and business insights
